@@ -45,4 +45,4 @@ Refer to Deep_Research_AI_Agent_Explanation.pdf (submitted separately) for a det
 
 
 License
-MIT License (see LICENSE file, if included).
+MIT License.
